@@ -3,5 +3,5 @@ Git is free software.
 
 push test
 
-change  'master'
+create a new branch 'features'
 
